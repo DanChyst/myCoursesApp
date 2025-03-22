@@ -3,7 +3,17 @@ SheridanCollegeCoursesApp Design
 
 # Versioning
 Design v1: https://www.figma.com/design/qpqAMERih7mY1xNlZHsZlK/HCI_Assignment_1_Danylo_Chystov?node-id=0-1&t=P4peiBWzoHEPVsX0-1
-Design v2: 
+
+Design v2: https://www.figma.com/design/qpqAMERih7mY1xNlZHsZlK/HCI_Assignment_2_Danylo_Chystov?node-id=0-1&t=9ETHlEHAyYNjQkZP-1
+# Changes: 
+ - Reworked design
+ - Added Settings View
+ - Removed chat creation as chats should be automatically created as per assigned groups
+
+# Future Updates:
+- Add Archive View with Archived Chats of completed Assignments
+- Add Profile Edit Settings View
+
 
 # New Functionalities that can be added to the app:
 - resources suggestions: AI-powered function that suggests resources like articles, websites etc to read to help complete the assignment;
