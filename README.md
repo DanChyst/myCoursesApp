@@ -5,6 +5,7 @@ Sheridan College myCoursesApp Design for Human-Computer Interaction Design Cours
 Design v1: https://www.figma.com/design/qpqAMERih7mY1xNlZHsZlK/HCI_Assignment_1_Danylo_Chystov?node-id=0-1&t=P4peiBWzoHEPVsX0-1
 
 Design v2: https://www.figma.com/design/qpqAMERih7mY1xNlZHsZlK/HCI_Assignment_2_Danylo_Chystov?node-id=0-1&t=9ETHlEHAyYNjQkZP-1
+
 Clickable prototype: https://www.figma.com/proto/qpqAMERih7mY1xNlZHsZlK/HCI_Assignment_2_Danylo_Chystov?page-id=0%3A1&node-id=36-337&viewport=217%2C87%2C0.65&t=r85nRg0EQg406JAH-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=45%3A719
 # Changes: 
  - Reworked design
