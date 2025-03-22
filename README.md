@@ -1,5 +1,5 @@
 # myCoursesApp
-SheridanCollegeCoursesApp Design
+Sheridan College myCoursesApp Design for Human-Computer Interaction Design Course 
 
 # Versioning
 Design v1: https://www.figma.com/design/qpqAMERih7mY1xNlZHsZlK/HCI_Assignment_1_Danylo_Chystov?node-id=0-1&t=P4peiBWzoHEPVsX0-1
